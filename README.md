@@ -10,7 +10,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 ![image](https://user-images.githubusercontent.com/64149514/125195203-aa485580-e28f-11eb-82ca-8061d1aa6ef4.png)
